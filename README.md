@@ -14,3 +14,4 @@
 ![devops-02](https://user-images.githubusercontent.com/42825450/147333658-abea8803-d269-4443-b687-1adccc223017.gif)
 ![devops03](https://user-images.githubusercontent.com/42825450/147333660-a0f3d0b2-7f48-4e49-be17-6333a42abef5.jpg)
 ![devops04](https://user-images.githubusercontent.com/42825450/147333976-f27c491a-e77a-4dfb-88a8-73a9477fdcf0.jpg)
+![devops05](https://user-images.githubusercontent.com/42825450/147334277-d2eee61d-8687-4c1b-8dcf-f02802ef1974.jpg)
