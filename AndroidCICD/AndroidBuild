@@ -7,21 +7,10 @@ pipeline{
     }
 
     environment {
-        srcUrl = "${srcUrl}"
-        branchName = "${branchName}"
         VERSION_CODE = "${VERSION_CODE}"
         APP_VERSION = "${APP_VERSION}"
-        DEBUGGABLE = "${DEBUGGABLE}"
         //APK包文件名称
         appName = "${appName}"
-        //360加固保安装路径
-        jiaguDir = "/usr/local/360jiagubao/jiagu/"
-        //360加固保核心jar文件完整路径
-        jiaguPath = "/usr/local/360jiagubao/jiagu/jiagu.jar"
-        //需要加固的APK包文件存储路径
-        jiaguApkPath = "./app/build/outputs/apk/release/*release.apk"
-        //加固后的APK包存储目录
-        outjiaguApk = "./app/build/outputs/"
     }
     
     stages{
