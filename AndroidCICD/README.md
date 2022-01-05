@@ -8,6 +8,9 @@
 ### 5、上传APK制品到蒲公英，调用API接口获取APK下载二维码并展示
 ### 6、多渠道包进行归档并生成各渠道包下载链接
 
+## 流程图示
+![AndroidCICD01](https://user-images.githubusercontent.com/42825450/148166377-d591dc26-84f8-477a-b60b-8f724d5ad108.jpg)
+
 ## 效果演示
 ![image](https://user-images.githubusercontent.com/42825450/147830201-bc18f7c0-fb16-4248-a28a-61de5d256126.png)
 ![image](https://user-images.githubusercontent.com/42825450/147830250-22aaddd0-51fc-4210-83e1-a3b006a50b55.png)
