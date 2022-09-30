@@ -10,7 +10,7 @@
 ### 7、流程中出现Token认证失败或被审批人员拒绝那么整个流程结束，并通过机器人发布通知信息！
 
 ## 效果演示
-![K8sCICD](https://user-images.githubusercontent.com/42825450/157217005-3c3d99ef-aaf2-4d15-bf39-bab615618781.gif)
-![K8sCICD01](https://user-images.githubusercontent.com/42825450/157217381-7495d022-b317-4bcf-a40f-52021decff2a.jpg)
+![cicd-k8s](https://user-images.githubusercontent.com/42825450/193210978-66a1d7e1-dd51-4830-ac2a-df716f0d469d.gif)
+![image](https://user-images.githubusercontent.com/42825450/193211194-1c5b47a1-c696-4521-97f0-0b59e24e49bb.png)
 ![K8sCICD02](https://user-images.githubusercontent.com/42825450/157219665-6f7f1f2c-a28b-4dac-8f08-872e6ba25fe8.jpg)
 ![K8sCICD03](https://user-images.githubusercontent.com/42825450/157219670-0fe36987-c7a3-4efd-98c1-82276e03356f.jpg)
