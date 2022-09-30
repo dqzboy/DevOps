@@ -12,5 +12,5 @@
 ## 效果演示
 ![cicd-k8s](https://user-images.githubusercontent.com/42825450/193210978-66a1d7e1-dd51-4830-ac2a-df716f0d469d.gif)
 ![image](https://user-images.githubusercontent.com/42825450/193211194-1c5b47a1-c696-4521-97f0-0b59e24e49bb.png)
-![K8sCICD02](https://user-images.githubusercontent.com/42825450/157219665-6f7f1f2c-a28b-4dac-8f08-872e6ba25fe8.jpg)
-![K8sCICD03](https://user-images.githubusercontent.com/42825450/157219670-0fe36987-c7a3-4efd-98c1-82276e03356f.jpg)
+![image](https://user-images.githubusercontent.com/42825450/193211762-b561095b-a2a9-4eec-ab64-534ca3850ecf.png)
+![image](https://user-images.githubusercontent.com/42825450/193212000-1e901761-c250-4248-95b8-6971d16b636f.png)
