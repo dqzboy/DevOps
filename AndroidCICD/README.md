@@ -1,20 +1,59 @@
-# APK构建 CICD流水线
+<div style="text-align: center"></div>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/42825450/193456424-cb4d255b-c87c-48bc-958c-f45acdc9ee21.png" width="250px" height="220px">
+      <br>
+      <i>Make the project development and release simpler, easier and more efficient.</i>
+  </p>
+</div>
 
-## 实现功能
-### 1、手动触发流水线任务
-### 2、源码拉取执行build
-### 3、判断APP包为正式版还是内测版
-### 4、判断APP包是否进行加固，如需加固则自动通过360加固保进行APK加固，并构建渠道包
-### 5、上传APK制品到蒲公英，调用API接口获取APK下载二维码并展示
-### 6、多渠道包进行归档并生成各渠道包下载链接
+## 功能
 
-## 流程图示
+<details>
+  <summary><b> 代码自动构建</b></summary>
+</details>
+
+<details>
+  <summary><b> 正式/内测APK生成</b></summary>
+</details>
+
+<details>
+  <summary><b> APK自动加固</b></summary>
+</details>
+
+<details>
+  <summary><b> 自动上传APK</b></summary>
+</details>
+
+<details>
+  <summary><b> 自动生成APK下载二维码</b></summary>
+</details>
+
+<details>
+  <summary><b> 自动实现多渠道APK生成</b></summary>
+</details>
+
+
+## 截图
 ![AndroidCICD01](https://user-images.githubusercontent.com/42825450/148166377-d591dc26-84f8-477a-b60b-8f724d5ad108.jpg)
 
-## 效果演示
-![image](https://user-images.githubusercontent.com/42825450/147830201-bc18f7c0-fb16-4248-a28a-61de5d256126.png)
-![image](https://user-images.githubusercontent.com/42825450/147830250-22aaddd0-51fc-4210-83e1-a3b006a50b55.png)
-![image](https://user-images.githubusercontent.com/42825450/147830261-04c8d5fd-f1dd-4d54-9b91-da992f238b7c.png)
-![image](https://user-images.githubusercontent.com/42825450/147830278-4af41ae1-00d4-469e-935f-1c5e388383a3.png)
-![image](https://user-images.githubusercontent.com/42825450/147830288-f54a6ab7-cd7f-421f-9c89-c3a04cc7bd48.png)
-![AndroidCICD001](https://user-images.githubusercontent.com/42825450/148003704-b8494185-790e-491e-a43e-b840d78cab26.jpg)
+<br/>
+<table>
+    <tr>
+      <td width="50%" align="center"><b>触发构建</b></td>
+      <td width="50%" align="center"><b>版本加固</b></td>
+    </tr>
+    <tr>
+        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/147830201-bc18f7c0-fb16-4248-a28a-61de5d256126.png?raw=true"></td>
+        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/147830278-4af41ae1-00d4-469e-935f-1c5e388383a3.png?raw=true"></td>
+    </tr>
+    <tr>
+      <td width="50%" align="center"><b>多渠道包生成</b></td>
+      <td width="50%" align="center"><b>生成下载二维码</b></td>
+    </tr>
+        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/147830261-04c8d5fd-f1dd-4d54-9b91-da992f238b7c.png?raw=true"></td>
+        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/148003704-b8494185-790e-491e-a43e-b840d78cab26.jpg?raw=true"></td>
+    <tr>
+    </tr>
+</table>
+
+
