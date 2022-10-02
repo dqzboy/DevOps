@@ -9,6 +9,12 @@
 ![license](https://img.shields.io/github/license/kubegems/kubegems)
 
 
+<h2>
+  <a href="https://www.dqzboy.com/">View My Blog</a>
+  <span> • </span>
+  <a href="https://www.dqzboy.com/9686.html">Docs</a>
+</h2>
+
 ## 功能
 
 <details>
