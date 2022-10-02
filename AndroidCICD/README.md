@@ -6,6 +6,12 @@
   </p>
 </div>
 
+<h2>
+  <a href="https://www.dqzboy.com/">View My Blog</a>
+  <span> • </span>
+  <a href="https://www.dqzboy.com/9674.html">Docs</a>
+</h2>
+
 ## 功能
 
 <details>
