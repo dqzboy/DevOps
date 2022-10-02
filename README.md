@@ -6,8 +6,6 @@
   </p>
 </div>
 
-![license](https://img.shields.io/github/license/kubegems/kubegems)
-
 
 <h2>
   <a href="https://www.dqzboy.com/">View My Blog</a>
