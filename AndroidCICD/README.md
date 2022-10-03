@@ -42,7 +42,7 @@
 ## 截图
 ![AndroidCICD01](https://user-images.githubusercontent.com/42825450/148166377-d591dc26-84f8-477a-b60b-8f724d5ad108.jpg)
 
-<br/>
+<br>
 <table>
     <tr>
       <td width="50%" align="center"><b>触发构建</b></td>
