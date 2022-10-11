@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary><b> 自动SQL结果判定</b></summary>
+  <summary><b> SQL结果判定</b></summary>
 </details>
 
 <details>
