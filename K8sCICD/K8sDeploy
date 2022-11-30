@@ -90,9 +90,7 @@ pipeline {
         stage('版本发布') {
             steps{
                 script {
-                    printSh("""
-                      echo "版本发布"
-                    """)
+                    echo "版本发布"
                 }
             }
         }
