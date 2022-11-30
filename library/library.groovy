@@ -1,5 +1,5 @@
 package org.devops
-def Ding() { 
+def HttpReq() { 
 	sh """
 	    curl --location --request POST 'https://oapi.dingtalk.com/robot/send?access_token=<you token>' \
 	    --header 'Content-Type: application/json' \
