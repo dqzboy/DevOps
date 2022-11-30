@@ -1,7 +1,7 @@
 package org.devops
 def HttpReq(Status,CatchInfo=' ') {    
 	sh """
-		curl --location --request POST 'https://oapi.dingtalk.com/robot/send?access_token=da3ac2c663dd9af1c0c513b82963f0050be83868fdf04d333962630f5e081cd6' \
+		curl --location --request POST 'https://oapi.dingtalk.com/robot/send?access_token=<you token>' \
 		--header 'Content-Type: application/json' \
 		--data '{
             "msgtype": "markdown",
