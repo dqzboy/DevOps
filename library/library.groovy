@@ -7,7 +7,7 @@ def Ding() {
             "msgtype": "markdown",
             "markdown": {
                 "title": "项目构建信息",
-                "text": "### rom-test 生产发布申请,请【${adminUser}】审批@${approvalDD}\n- 应用名称: ${env.JOB_NAME}\n- 随机验证码: ${randomToken}"
+                "text": "### 生产发布申请,请【${adminUser}】审批@${approvalDD}\n- 应用名称: ${env.JOB_NAME}\n- 随机验证码: ${randomToken}"
             },
             "at": {
                 "isAtAll": false
