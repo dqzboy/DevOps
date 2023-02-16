@@ -6,7 +6,6 @@
   </p>
 </div>
 
-
 <h2>
   <a href="https://www.dqzboy.com/">View My Blog</a>
   <span> • </span>
