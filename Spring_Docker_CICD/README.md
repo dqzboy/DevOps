@@ -9,7 +9,7 @@
 <h2>
   <a href="https://www.dqzboy.com/">View My Blog</a>
   <span> • </span>
-  <a href="https://www.dqzboy.com/9686.html">Docs</a>
+  <a href="https://www.dqzboy.com/2334.html">Docs</a>
 </h2>
 
 ## 功能
@@ -39,35 +39,5 @@
 </details>
 
 
-## 截图
-<br/>
-<table>
-    <tr>
-      <td width="50%" align="center"><b>构建成功通知</b></td>
-      <td width="50%" align="center"><b>构建失败通知</b></td>
-    </tr>
-    <tr>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193211194-1c5b47a1-c696-4521-97f0-0b59e24e49bb.png?raw=true"></td>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193457425-a766f178-e23b-4e5f-9b40-d93af2c27d83.png?raw=true"></td>
-    </tr>
-    <tr>
-      <td width="50%" align="center"><b>随机Toekn通知</b></td>
-      <td width="50%" align="center"><b>构建终止通知</b></td>
-    </tr>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193457257-c6bd0e26-1a7f-4e78-b2c2-ad656e01fa27.png?raw=true"></td>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193212000-1e901761-c250-4248-95b8-6971d16b636f.png?raw=true"></td>
-    <tr>
-    </tr>
-    <tr>
-      <td width="50%" align="center"><b>发布时间通知</b></td>
-      <td width="50%" align="center"><b>构建阶段通知</b></td>
-    </tr>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193457013-ba82d9c3-8d3a-4d89-b87a-2cadb4c4c6e6.png?raw=true"></td>
-        <td width="50%" align="center"><img src="https://user-images.githubusercontent.com/42825450/193211762-b561095b-a2a9-4eec-ab64-534ca3850ecf.png?raw=true"></td>
-    <tr>
-    </tr>
-</table>
-
-
-## 效果
-
+## 流程图
+![image](https://user-images.githubusercontent.com/42825450/219634174-6ccd3ff7-49f0-42e7-8200-761c3e7ae7bf.png)
