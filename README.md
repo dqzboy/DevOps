@@ -9,7 +9,7 @@
 <h2>
   <a href="https://www.dqzboy.com/">View My Blog</a>
   <span> • </span>
-  <a href="https://www.dqzboy.com/9686.html">Docs</a>
+  <a href="https://www.dqzboy.com/9686.html">文档</a>
 </h2>
 
 ## 功能
@@ -71,3 +71,6 @@
 
 ## 效果
 ![cicd-k8s](https://user-images.githubusercontent.com/42825450/193210978-66a1d7e1-dd51-4830-ac2a-df716f0d469d.gif)
+
+## 推荐
+更多学习教程请关注 [浅时光博客](https://www.dqzboy.com/)
