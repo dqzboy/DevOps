@@ -1,5 +1,6 @@
-name: Bugs or issues report 🐛
+name: 反馈问题 🐛
 description: 项目运行中遇到的Bug或问题。
+title: "🐞 反馈问题："
 labels: ['status: needs check']
 body:
   - type: markdown
