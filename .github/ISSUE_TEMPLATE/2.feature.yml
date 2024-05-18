@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         请在上方的`title`中填写简略总结，谢谢❤️。
+        ⚠️ 温馨提示: 未`star`项目会被自动关闭issue哦!
   - type: checkboxes
     attributes:
       label: ⚠️ 搜索是否存在类似issue
