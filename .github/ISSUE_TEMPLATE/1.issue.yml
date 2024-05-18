@@ -6,8 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### 温馨提示: 未star项目会被自动关闭issue哦!
-        ### ⚠️ 前置确认
+        ### ⚠️ 前置确认(温馨提示: 未star项目会被自动关闭issue哦!)
         1. 网络是否正常
         2. 是否最新代码
         3. 服务器是否有足够资源运行程序
