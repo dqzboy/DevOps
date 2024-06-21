@@ -6,6 +6,18 @@
   </p>
 </div>
 
+<div align="center">
+
+[![Auth](https://img.shields.io/badge/Auth-dqzboy-ff69b4)](https://github.com/dqzboy)
+[![GitHub contributors](https://img.shields.io/github/contributors/dqzboy/DevOps)](https://github.com/dqzboy/DevOps/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues/dqzboy/DevOps.svg)](https://github.com/dqzboy/DevOps/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/dqzboy/DevOps)](https://github.com/dqzboy/DevOps)
+[![HitCount](https://views.whatilearened.today/views/github/dqzboy/DevOps.svg)](https://github.com/dqzboy/DevOps)
+[![GitHub license](https://img.shields.io/github/license/dqzboy/DevOps)](https://github.com/dqzboy/DevOps/blob/main/LICENSE)
+
+</div>
+
+---
 
 ## 功能
 
