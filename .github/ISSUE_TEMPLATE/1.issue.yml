@@ -10,6 +10,7 @@ body:
         1. 网络是否正常
         2. 是否最新代码
         3. 服务器是否有足够资源运行程序
+        ⚠️ 提醒：在提交issue之前，请务必确保没有包含个人数据！！
   - type: checkboxes
     attributes:
       label: 前置确认
